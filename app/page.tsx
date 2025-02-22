@@ -1,5 +1,3 @@
-import Image from 'next/image'
-
 export default function Home() {
   return <main>
     Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni rem est placeat expedita, magnam quaerat vel, alias accusamus maxime numquam eveniet quae perferendis quibusdam ex enim facilis eos. Tempore, corporis.
